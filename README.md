@@ -1,2 +1,3 @@
 # Rainbow_Song
-Test repo to clone 
+
+A song about rainbows in the key of C major
